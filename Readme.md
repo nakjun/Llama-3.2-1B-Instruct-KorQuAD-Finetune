@@ -5,7 +5,7 @@
 
 </div>
 
-이 프로젝트는 Llama-3.2-1B-Instruct를 기반으로 한국어 질의응답 태스크를 파인튜닝, 인퍼런스, 이밸류에이션할수 있는 프로젝트입니다.
+**Llama-3.2-1B-Instruct를 기반으로 한국어 질의응답 태스크를 fine-tuning, inference, evaluation 하는 프로젝트**
 
 ## basic
 - 기본 모델: Llama-3.2-1B-Instruct
