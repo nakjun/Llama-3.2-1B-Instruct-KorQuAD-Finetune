@@ -1,7 +1,7 @@
 # Llama-3.2-1B-Instruct-korQuAD-v1
 <div align="center">
 
-🤗 [**Hugging Face**](https://huggingface.co/NakJun/Llama-3.2-1B-Instruct-korQuAD-v1) - **22K Downloads**  
+🤗 [**Hugging Face**](https://huggingface.co/NakJun/Llama-3.2-1B-Instruct-korQuAD-v1) - **21.9K Downloads**  
 
 </div>
 
